@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm jborys49!
 
-<!--
-**Jborys49/Jborys49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Student | Programmer | Tech Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my profile! I'm currently a 5th semester student at **Politechnika Wrocławska**, passionate about programming in various languages and diving into database systems. Always curious to learn new technologies and expand my skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 **Education**: 5th Semester Student in [Your Major], Politechnika Wrocławska
+- 💻 **Programming Languages**: 
+  - C++, Java, Python, Scala, OCaml
+- 🛠 **Databases**: MySQL
+
+---
+
+---
+
+## 📫 Let's Connect!
+
+- **GitHub**: [github.com/jborys49](https://github.com/jborys49)
+- **Email**: [jborys49@example.com](mailto:jborys49@gmail.com)
+
+---
+
+> 💡 _"Coding is like a joke, I don't get it"_ – Me
