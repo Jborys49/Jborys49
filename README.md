@@ -20,7 +20,7 @@ Welcome to my profile! I'm currently a 5th semester student at **Politechnika Wr
 ## 📫 Let's Connect!
 
 - **GitHub**: [github.com/jborys49](https://github.com/jborys49)
-- **Email**: [jborys49@example.com](mailto:jborys49@gmail.com)
+- **Email**: [jborys49@gmail.com](mailto:jborys49@gmail.com)
 
 ---
 
