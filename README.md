@@ -8,7 +8,7 @@ Welcome to my profile! I'm currently a 5th semester student at **Politechnika Wr
 
 ## 🚀 About Me
 
-- 🎓 **Education**: 5th Semester Student in [Your Major], Politechnika Wrocławska
+- 🎓 **Education**: 5th Semester Student in ITE, Politechnika Wrocławska
 - 💻 **Programming Languages**: 
   - C++, Java, Python, Scala, OCaml
 - 🛠 **Databases**: MySQL
